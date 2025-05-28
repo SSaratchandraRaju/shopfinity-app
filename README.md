@@ -150,31 +150,36 @@ double calculateWinProbability(User user, Contest contest) {
 }
 ```
 
-## 📱 Screenshots
+## 📸 Screenshots
 
-<div align="center">
-  
-### 🏠 Home Screen
-<img src="assests/screens/home.jpg" alt="Home" width="200"/>
+<table>
+  <tr>
+    <td><img src="assests/screens/home.jpg" alt="Home Page" width="200" /></td>
+    <td><img src="assests/screens/product_info.jpg" alt="Product Info" width="200" /></td>
+    <td><img src="assests/screens/checkout.jpg" alt="Checkout Page" width="200" /></td>
+    <td><img src="assests/screens/order-conf.jpg" alt="Order Confirmation" width="200" /></td>
+  </tr>
+  <tr>
+    <td><img src="assests/screens/invoice.jpg" alt="Invoice" width="200" /></td>
+    <td><img src="assests/screens/future-c.jpg" alt="Upcoming Contests" width="200" /></td>
+    <td><img src="assests/screens/contest.jpg" alt="Active Contest" width="200" /></td>
+    <td><img src="assests/screens/leaderboard.jpg" alt="Leaderboard" width="200" /></td>
+  </tr>
+  <tr>
+    <td><img src="assests/screens/leaderboards.jpg" alt="Leaderboard (Expanded)" width="200" /></td>
+    <td><img src="assests/screens/wallet.jpg" alt="Wallet" width="200" /></td>
+    <td><img src="assests/screens/referrals.jpg" alt="Referrals" width="200" /></td>
+    <td><img src="assests/screens/addresses.jpg" alt="Address Book" width="200" /></td>
+  </tr>
+  <tr>
+    <td><img src="assests/screens/cart.jpg" alt="Cart" width="200" /></td>
+    <td><img src="assests/screens/coupons.jpg" alt="Coupons" width="200" /></td>
+    <td><img src="assests/screens/order.jpg" alt="Order Details" width="200" /></td>
+    <td><img src="assests/screens/orders.jpg" alt="My Orders" width="200" /></td>
+  </tr>
+</table>
 
-*Personalized product recommendations with contest highlights*
-
-### 🛒 Product Page
-<img src="assests/screens/product_info.jpg" alt="Product" width="200"/>
-
-*Detailed product view with contest entry options*
-
-### 🏆 Contest View
-<img src="assests/screens/contest.jpg" alt="Contest" width="200"/>
-
-*Live leaderboard with real-time updates*
-
-### 💰 Wallet Management
-<img src="assests/screens/wallet.jpg" alt="Wallet" width="200"/>
-
-*Credit balance and transaction history*
-
-</div>
+---
 
 ## 🚀 Performance Metrics
 
