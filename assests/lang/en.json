@@ -1,0 +1,16 @@
+{
+  "membership_details_title": "Membership Details",
+  "active_membership_until": "Active Membership till",
+  "no_active_membership": "No Active Membership",
+  "membership_benefits_header": "2 Year Membership Benefits for Free!",
+  "refer_2_friends": "• Refer 2 friends and get free contest access for 1 year.",
+  "refer_4_friends": "• Refer 4 friends and unlock 2 years of exclusive membership benefits.",
+  "bonus_perks_header": "Bonus Perks:",
+  "bonus_perks_details": "Earn ₹14 for every referral.\n• Refer 2 friends and earn ₹28.\n• Refer 4 friends and earn ₹56.",
+  "membership_claim_once": "Membership benefits can only be claimed once.",
+  "check_eligibility_button": "Check Eligibility and Claim Now",
+  "upgrade_membership_message": "You need at least a basic membership to claim access. Please upgrade your membership to proceed.",
+  "ready_to_join_header": "Ready to join a membership plan?",
+  "explore_plans_text": "Explore available plans and select the one that best suits your needs.",
+  "go_to_payments_button": "Go to Payments"
+}
